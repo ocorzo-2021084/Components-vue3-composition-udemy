@@ -1,4 +1,5 @@
 # components-1
+- [Preview page](https://component-1-octavio-corzo.netlify.app/)
 
 This template should help get you started developing with Vue 3 in Vite.
 
